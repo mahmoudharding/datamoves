@@ -78,6 +78,8 @@ Wickham, H. (2014). Tidy data. Journal of Statistical Software, 59(10), 1–23. 
 
 Erickson, T., Ismay, C., & Chunn, J. (2018). The fivethirtyeight R package: “Tame Data” principles for introductory statistics and data science courses. Technology Innovations in Statistics Education, 11(2). [https://escholarship.org/uc/item/0rx1231m](https://escholarship.org/uc/item/0rx1231m) 
 
+  Pruim, R., Gîrjău, M.-C., & Horton, N. J. (2023). Fostering Better Coding Practices for Data Scientists  . Harvard Data Science Review, 5(3). [https://doi.org/10.1162/99608f92.97c9f60f](https://doi.org/10.1162/99608f92.97c9f60f)
+
 ## 🪪 License
 
 All content in this repository is dedicated to the public domain under the [Creative Commons Zero (CC0) license](https://creativecommons.org/publicdomain/zero/1.0/). You are free to use, modify, and share without restriction.
