@@ -17,14 +17,13 @@ The six moves demonstrated:
 - **Merging / Joining** – combine datasets  
 - **Making Hierarchy / Restructuring** – reshape data using pivot, melt, or multi-indexing
 
-## 📂 Repository Structure
+## Repository Structure
 
-/
 ├── notebooks/
 
-│   ├── 01\_filtering.ipynb
+│   `filtering.ipynb
 
-│   ├── 02\_grouping\_and\_summarizing.ipynb
+│   `summarizing.ipynb`
 
 │   ├── 03\_calculating.ipynb
 
