@@ -1,8 +1,8 @@
-# 📊 Python Notebooks: Core Data Moves Demo
+# Python Notebooks: Core Data Moves Demo
 
-This repository contains a collection of Python Jupyter notebooks that implement and visualize the **six core data moves** described in **Erickson, Wilkerson, Finzer & Reichsman (2019)** — *“Data Moves”* ([escholarship.org](https://escholarship.org/uc/item/0mg8m7g6)). Each notebook demonstrates a specific move using real datasets and Python tools like Pandas and Matplotlib.
+This repository contains a collection of Python Jupyter notebooks that implement and visualize the six core data moves described in Erickson, Wilkerson, Finzer & Reichsman (2019) *“Data Moves”* ([escholarship.org](https://escholarship.org/uc/item/0mg8m7g6)). Each notebook demonstrates a specific move using real datasets and Python tools like Pandas and Matplotlib.
 
-## 📚 Background
+## Background
 
 A **data move** is an action that changes a dataset’s structure or values to make analysis more effective or insightful. The core moves covered in this repo are based on:
 
@@ -21,17 +21,26 @@ The six moves demonstrated:
 
 /
 ├── notebooks/
+
 │   ├── 01\_filtering.ipynb
+
 │   ├── 02\_grouping\_and\_summarizing.ipynb
+
 │   ├── 03\_calculating.ipynb
+
 │   ├── 04\_merging\_joining.ipynb
+
 │   └── 05\_hierarchy\_restructuring.ipynb
+
 ├── data/
+
 │   └── nhanes\_sample.csv
+
 ├── requirements.txt
+
 └── README.md
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the repository**  
    ```bash
@@ -44,13 +53,7 @@ The six moves demonstrated:
    pip install -r requirements.txt
    ```
 
-3. **Launch the notebooks**
-
-   ```bash
-   jupyter notebook
-   ```
-
-## 🔍 Notebooks Overview
+## Notebooks Overview
 
 Each notebook focuses on a single data move with worked examples:
 
@@ -62,13 +65,13 @@ Each notebook focuses on a single data move with worked examples:
 | `04_merging_joining.ipynb`          | Merging two or more datasets                         |
 | `05_hierarchy_restructuring.ipynb`  | Reshaping data using pivot tables and multi-indexing |
 
-## 🧠 Learning Goals
+## Learning Goals
 
 * Understand each core data move as a conceptual tool for working with data.
 * Practice using `pandas` to implement data moves.
 * See how combinations of moves enable deeper analysis and insight.
 
-## 📘 Citation & Attribution
+## Citation & Attribution
 
 This work builds upon ideas from:
 
@@ -78,8 +81,11 @@ Wickham, H. (2014). Tidy data. Journal of Statistical Software, 59(10), 1–23. 
 
 Erickson, T., Ismay, C., & Chunn, J. (2018). The fivethirtyeight R package: “Tame Data” principles for introductory statistics and data science courses. Technology Innovations in Statistics Education, 11(2). [https://escholarship.org/uc/item/0rx1231m](https://escholarship.org/uc/item/0rx1231m) 
 
-  Pruim, R., Gîrjău, M.-C., & Horton, N. J. (2023). Fostering Better Coding Practices for Data Scientists  . Harvard Data Science Review, 5(3). [https://doi.org/10.1162/99608f92.97c9f60f](https://doi.org/10.1162/99608f92.97c9f60f)
+Pruim, R., Gîrjău, M.-C., & Horton, N. J. (2023). Fostering Better Coding Practices for Data Scientists  . Harvard Data Science Review, 5(3). [https://doi.org/10.1162/99608f92.97c9f60f](https://doi.org/10.1162/99608f92.97c9f60f)
 
-## 🪪 License
+Stokes, D. J., & Harding, M. (n.d.). Intro R Python 4 DS. GitHub Pages. Retrieved July 9, 2025, from [https://djstokes02.github.io/IntroRPython4DS/](https://djstokes02.github.io/IntroRPython4DS/)
+
+
+## License
 
 All content in this repository is dedicated to the public domain under the [Creative Commons Zero (CC0) license](https://creativecommons.org/publicdomain/zero/1.0/). You are free to use, modify, and share without restriction.
