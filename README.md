@@ -84,7 +84,9 @@ Pruim, R., Gîrjău, M.-C., & Horton, N. J. (2023). Fostering Better Coding Prac
 
 Stokes, D. J., & Harding, M. (n.d.). Intro R Python 4 DS. GitHub Pages. Retrieved July 9, 2025, from [https://djstokes02.github.io/IntroRPython4DS/](https://djstokes02.github.io/IntroRPython4DS/)
 
-
 ## License
+[![CC BY-NC-ND 4.0][cc-by-nd-shield]][cc-by-nd]
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License][cc-by-nd].
 
-All content in this repository is dedicated to the public domain under the [Creative Commons Zero (CC0) license](https://creativecommons.org/publicdomain/zero/1.0/). You are free to use, modify, and share without restriction.
+[cc-by-nd]: https://creativecommons.org/licenses/by-nc-nd/4.0/
+[cc-by-nd-shield]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg
